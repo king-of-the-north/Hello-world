@@ -4,3 +4,4 @@ Husky
 German Shepherd
 Collie
 Poodle
+Jack Russel
