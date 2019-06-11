@@ -1,0 +1,7 @@
+Here's a list of dogs :
+
+Husky
+German Shepherd
+Collie
+Poodle
+Jack Russel
